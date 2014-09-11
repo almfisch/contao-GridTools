@@ -1,0 +1,94 @@
+.gridtools_wrapper
+{
+	margin: 5px 0px 0px 0px;
+	padding: 4px 7px 10px 7px;
+	border: solid 1px #dddddd;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.gridtools_row
+{
+	margin: 6px 0px 0px 0px;
+}
+
+.gridtools_col
+{
+	float: left;
+}
+
+.gridtools_inner
+{
+	margin: 0px 3px 0px 3px;
+	padding: 0px 3px 3px 3px;
+	border: solid 1px #8ab858;
+}
+
+.gridtools_head
+{
+	margin: 0px -3px 0px -3px;
+	padding: 2px 2px 3px 2px;
+	background-color: #8ab858;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.gridtools_content
+{
+	margin: 3px 0px 0px 0px;
+	color: #666666;
+}
+
+.gridtools_content .header_new
+{
+	margin-left: 0px;
+}
+
+.gridtools_ce_elements
+{
+	margin: 12px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+.gridtools_element
+{
+	list-style: none;
+	margin: 2px 0px 2px 0px;
+	padding: 3px 2px 0px 2px;
+	border: solid 1px #dddddd;
+}
+.gridtools_element:hover
+{
+	background-color: #ebfdd7;
+}
+.gridtools_element_left
+{
+	float: left;
+	color: #666666;
+	font-style: italic;
+}
+.gridtools_element_right
+{
+	float: right;
+}
+
+.gridtools_element .cte_type
+{
+	margin-bottom: 0px;
+	width: auto;
+}
+
+.cte_type_gridparent
+{
+	color: #999999 !important;
+	font-weight: bold;
+}
+.tl_content_gridwrapper
+{
+	background-color: #f0f7fc;
+}
+
+.gridtools_clear
+{
+	clear: both;
+}

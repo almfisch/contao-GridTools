@@ -1,0 +1,4 @@
+
+
+<?php echo $this->gridElements; ?>
+<?php echo $this->gridElementsConfig; ?>
